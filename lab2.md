@@ -64,11 +64,11 @@ We want you to summarize your findings with a short report. We ask the following
 
 The length of the report should not exceed 2 pages.
 
-*Credits: This lab is adapted from the lab created by Georgia Gkioxari for the 2020 AMMI CV course.*
+*Credits: This lab is adapted from the lab created by Ross Girshick for the 2022 AMMI CV course.*
 
 [d2]: https://github.com/facebookresearch/detectron2
-[d2tut]: https://colab.research.google.com/drive/1C2Z_T_G9V-dTPJvplSRGoMcWc7MkOqfK#scrollTo=QHnVupBBn9eR&line=1&uniqifier=1
-[d2new]: https://colab.research.google.com/drive/1C2Z_T_G9V-dTPJvplSRGoMcWc7MkOqfK#scrollTo=b2bjrfb2LDeo
+[d2tut]: https://colab.research.google.com/drive/1FiBMBZzEEBfyuCq9N5LUWgCmFJoaF94Z?usp=sharing
+[d2new]: https://colab.research.google.com/drive/1FiBMBZzEEBfyuCq9N5LUWgCmFJoaF94Z#scrollTo=wlqXIXXhW8dA
 [nuts]: https://github.com/gkioxari/aims2020_visualrecognition/releases/download/v1.0/nuts.zip
 [coco]: http://cocodataset.org/#home
 [colab]: https://colab.research.google.com/
