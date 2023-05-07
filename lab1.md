@@ -41,7 +41,7 @@ The length of the report should not exceed 2 pages.
 
 [d2]: https://github.com/facebookresearch/detectron2
 [d2tut]: https://colab.research.google.com/drive/1X6dmLHMVw3B9QhZn-x0j5HLi_Ss4mHYy?usp=sharing
-[d2inst]: https://colab.research.google.com/drive/1wgg7IT8NrlxDeAmhYRjyHasg3jvwCnUd#scrollTo=9_FzH13EjseR
+[d2inst]: https://colab.research.google.com/drive/1X6dmLHMVw3B9QhZn-x0j5HLi_Ss4mHYy#scrollTo=vM54r6jlKTII
 [d2run]: https://colab.research.google.com/drive/1X6dmLHMVw3B9QhZn-x0j5HLi_Ss4mHYy#scrollTo=Vk4gID50K03a
 [coco]: http://cocodataset.org/#home
 [d2zoo]: https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md
