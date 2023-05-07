@@ -7,7 +7,7 @@ In our first lab, we learned how to download a pretrained model from the D2 mode
 For this lab it is required that you make a copy of the colab notebook to your personal google drive so that you can share it with the instructor in your report.
 
 ## Lab report submission
-Please upload your short report using the following filename template `lab3_firstname_lastname.pdf` by Sunday, April 3, at midnight (in your local time). A dropbox upload link will be shared via Campuswire.
+Please upload your short report using the following filename template `lab3_firstname_lastname.pdf` by Sunday, May 14th, at midnight (in your local time). A dropbox upload link will be shared via Campuswire.
 
 ## Part A: Detecting Objects in Frames
 
@@ -54,7 +54,7 @@ We want you to summarize your findings with a short report. We ask the following
 * Visualizations of 10-frame tracks (Part C): Pick a 10-frame clip from the video. Visualize the 10-frame tracks as computed in Part C. Use colorcoding to indicate the predictions belonding to the same track. What do you observe?
 * Please include the URL link to *your copy* of the colab notebook in your google drive that implements your tracker. Your notebook should allow us to upload any 10 frames and get the corresponding tracks similar to what you show in your report. In the notebook, write documentation explaining how we can run your tracker on a new set of 10 images contained in a zip file.
 
-*Credits: This lab is adapted from the lab created by Georgia Gkioxari for the 2020 AMMI CV course.*
+*Credits: This lab is adapted from the lab created by Ross Girshick for the 2022 AMMI CV course..*
 
 [d2]: https://github.com/facebookresearch/detectron2
 [video]: https://github.com/gkioxari/aims2020_visualrecognition/releases/download/v1.0/videoclip.zip
