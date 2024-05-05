@@ -7,7 +7,7 @@ The [lab 2 Detectron2 tutorial][d2tut] offer an [example][d2new] on how to prepa
 As before, it is recommended that you make a copy of the colab notebook to your personal google drive so that you can save any changes you make. (Alternatively, you can work in "playground mode," but you will be unable to save your changes.)
 
 ## Lab report submission
-Please upload your short report using the following filename template `lab2_firstname_lastname.pdf` by Sunday, May 14th, at midnight (in your local time). A dropbox upload link will be shared via Campuswire.
+Please upload your short report using the following filename template `lab2_firstname_lastname.pdf` by Sunday, May 12th, at 23:59pm (in your local time). A dropbox upload link will be shared via Campuswire.
 
 ## Part A: Data
 
