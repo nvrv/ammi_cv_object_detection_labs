@@ -7,7 +7,7 @@ In our first lab, we learned how to download a pretrained model from the D2 mode
 For this lab it is required that you make a copy of the colab notebook to your personal google drive so that you can share it with the instructor in your report.
 
 ## Lab report submission
-Please upload your short report using the following filename template `lab3_firstname_lastname.pdf` by Sunday, May 14th, at midnight (in your local time). A dropbox upload link will be shared via Campuswire.
+Please upload your short report using the following filename template `lab3_firstname_lastname.pdf` by Sunday, May 12th, at 23:59pm (in your local time). A dropbox upload link will be shared via Campuswire.
 
 ## Part A: Detecting Objects in Frames
 
